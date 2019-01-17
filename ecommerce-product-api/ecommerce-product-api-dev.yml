@@ -1,7 +1,7 @@
 spring:
     datasource:
-        url: {cipher}bade81d32a7ec44d4eb0f0561bdc5afdcca0fa2a65473885f8ab2a550df5d01f588e4062c8831e6ab506ea0ae71553d34800be6b1da832bbec34d14201254edb
-        username:{cipher}dbe76ffb15e4ec8d5b9cf839dcff2bba060d9eb8c0fa336f57169bb02fca005d
+        url: '{cipher}bade81d32a7ec44d4eb0f0561bdc5afdcca0fa2a65473885f8ab2a550df5d01f588e4062c8831e6ab506ea0ae71553d34800be6b1da832bbec34d14201254edb'
+        username: '{cipher}dbe76ffb15e4ec8d5b9cf839dcff2bba060d9eb8c0fa336f57169bb02fca005d'
         password: 
         tomcat.max-wait: 20000
         tomcat.max-active: 50
