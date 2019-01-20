@@ -5,7 +5,7 @@ spring:
   datasource:
     url: '{cipher}bade81d32a7ec44d4eb0f0561bdc5afdcca0fa2a65473885f8ab2a550df5d01f588e4062c8831e6ab506ea0ae71553d34800be6b1da832bbec34d14201254edb'
     username: '{cipher}dbe76ffb15e4ec8d5b9cf839dcff2bba060d9eb8c0fa336f57169bb02fca005d'
-    password: '{cipher}872988c97afcff7c42eb38ce8f9c9ac2f36d75756a5d05e3632f4b9f9d437d17'
+    password: 
     tomcat.max-wait: '{cipher}d7948c9c09742fdb9034c485a597ac3faf6d56fd9409aded52dfa5b790b7e068'
     tomcat.max-active: '{cipher}a0aa57c33395f9811ec45238e816e698e9e85dd485cf029c928e69142f94aa21'
     tomcat.max-idle: '{cipher}75c58b3fe4cb00ac835434785fd52928c3aa7ab26f4fd3f8f0fe0dd47362c38c'
